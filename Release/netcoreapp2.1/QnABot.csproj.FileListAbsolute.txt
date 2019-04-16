@@ -1,0 +1,6 @@
+D:\home\site\wwwroot\obj\Release\netcoreapp2.1\QnABot.csprojAssemblyReference.cache
+D:\home\site\wwwroot\obj\Release\netcoreapp2.1\QnABot.csproj.CoreCompileInputs.cache
+D:\home\site\wwwroot\obj\Release\netcoreapp2.1\QnABot.RazorAssemblyInfo.cache
+D:\home\site\wwwroot\obj\Release\netcoreapp2.1\QnABot.RazorAssemblyInfo.cs
+D:\home\site\wwwroot\obj\Release\netcoreapp2.1\QnABot.AssemblyInfoInputs.cache
+D:\home\site\wwwroot\obj\Release\netcoreapp2.1\QnABot.AssemblyInfo.cs
