@@ -4,6 +4,7 @@
   "text": "¡Hola! Soy el Chatbot del Tribunal Electoral del Poder Judicial\nde la Federación. Puedo ofrecerte información\nsobre: Avisos de sesión, Turno de expedientes,\nConsulta de sentencias, Consulta de expedientes,\nRecepción de documentos, entre otros.\n¿En qué puedo ayudarte?",
   "attachments": [
     {
+      "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
       "contentType": "application/vnd.microsoft.card.adaptive",
       "content": {
         "type": "AdaptiveCard",
